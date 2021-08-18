@@ -1,0 +1,70 @@
+﻿  pch.cpp
+  arithmeticExpression.cpp
+  main.cpp
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(7): error C2065: 'string': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(7): error C2146: syntax error: missing ';' before identifier 'expr1'
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(7): error C2065: 'expr1': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(8): error C2065: 'arithmeticExpression': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(8): error C2146: syntax error: missing ';' before identifier 'ex1'
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(8): error C2065: 'expr1': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(8): error C3861: 'ex1': identifier not found
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(9): error C2065: 'ex1': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(10): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(10): error C2065: 'expr1': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(10): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(11): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(11): error C2065: 'ex1': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(11): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(12): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(12): error C2065: 'ex1': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(12): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(13): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(13): error C2065: 'ex1': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(13): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(15): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(15): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(17): error C2065: 'string': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(17): error C2146: syntax error: missing ';' before identifier 'expr2'
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(17): error C2065: 'expr2': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(18): error C2065: 'arithmeticExpression': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(18): error C2146: syntax error: missing ';' before identifier 'ex2'
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(18): error C2065: 'expr2': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(18): error C3861: 'ex2': identifier not found
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(19): error C2065: 'ex2': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(20): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(20): error C2065: 'expr2': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(20): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(21): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(21): error C2065: 'ex2': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(21): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(22): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(22): error C2065: 'ex2': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(22): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(23): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(23): error C2065: 'ex2': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(23): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(25): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(25): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(27): error C2065: 'string': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(27): error C2146: syntax error: missing ';' before identifier 'expr3'
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(27): error C2065: 'expr3': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(28): error C2065: 'arithmeticExpression': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(28): error C2146: syntax error: missing ';' before identifier 'ex3'
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(28): error C2065: 'expr3': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(28): error C3861: 'ex3': identifier not found
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(29): error C2065: 'ex3': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(30): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(30): error C2065: 'expr3': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(30): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(31): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(31): error C2065: 'ex3': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(31): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(32): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(32): error C2065: 'ex3': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(32): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(33): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(33): error C2065: 'ex3': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(33): error C2065: 'endl': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(35): error C2065: 'cout': undeclared identifier
+c:\users\matt_\source\repos\arithmeticexpression\arithmeticexpression\main.cpp(35): error C2065: 'endl': undeclared identifier
+  Generating Code...
